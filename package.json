@@ -1,0 +1,8 @@
+{
+  "name": "telegram_bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Suufi <qxest@reqxest.com>",
+  "license": "MIT",
+  "private": true
+}
